@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Park Sistemi/Park_Sistemi.Module/Migrations
+/Park Sistemi/.vs/Park Sistemi/copilot
+/Park Sistemi/.vs/Park Sistemi/FileContentIndex
