@@ -1,0 +1,15 @@
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\bin\Debug\net8.0\Park_Sistemi.Module.deps.json
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\bin\Debug\net8.0\Park_Sistemi.Module.runtimeconfig.json
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\bin\Debug\net8.0\Park_Sistemi.Module.dll
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\bin\Debug\net8.0\Park_Sistemi.Module.pdb
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.csproj.AssemblyReference.cache
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.AssemblyInfoInputs.cache
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.AssemblyInfo.cs
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.csproj.CoreCompileInputs.cache
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.sourcelink.json
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.dll
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\refint\Park_Sistemi.Module.dll
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.pdb
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\Park_Sistemi.Module.genruntimeconfig.cache
+D:\Projeler\DBMS\Park Sistemi\Park_Sistemi.Module\obj\Debug\net8.0\ref\Park_Sistemi.Module.dll
